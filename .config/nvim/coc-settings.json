@@ -1,0 +1,11 @@
+{
+  "solargraph.transport": "stdio",
+  "solargraph.commandPath": "~/repos/art19/dev-environments/rails/bin/solargraph",
+  "solargraph.diagnostics": true,
+  "solargraph.promptDownload": false,
+  "solargraph.checkGemVersion": false,
+  "suggest.noselect": true,
+  "coc.source.file.disableSyntaxes": ["comment"],
+  "coc.source.around.disableSyntaxes": ["comment"],
+  "coc.source.buffer.disableSyntaxes": ["comment"]
+}
