@@ -1,6 +1,6 @@
 {
   "solargraph.transport": "stdio",
-  "solargraph.commandPath": "~/repos/art19/dev-environments/rails/bin/solargraph",
+  "solargraph.commandPath": "solargraph",
   "solargraph.diagnostics": true,
   "solargraph.promptDownload": false,
   "solargraph.checkGemVersion": false,
